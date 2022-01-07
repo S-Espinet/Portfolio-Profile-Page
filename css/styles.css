@@ -38,17 +38,17 @@ h3 {
 .box1 {
   width: 100%;
   border: solid green;
-  border-width: 5xp;
+  border-width: 5px;
   background-color:tan;
-  margin-bottom: 10xp;
+  margin-bottom: 10px;
   box-sizing:border-box;
 }
 
 .box2 {
   width: 100%;
   border: solid green;
-  border-width: 5xp;
+  border-width: 5px;
   background-color:tan;
-  margin-bottom: 10xp;
+  margin-bottom: 10px;
   box-sizing:border-box;
 }
