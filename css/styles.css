@@ -1,0 +1,24 @@
+.intro {
+  font-style: italic;
+}
+
+.story {
+  font-style: oblique;
+}
+.highlight {
+  background-color:cadetblue;
+}
+
+h1 {
+  color:forestgreen;
+  background-color:antiquewhite;
+  font-style:italic;
+}
+
+h2 {
+  background-color:rgb(134, 127, 189);
+}
+
+h3 {
+  background-color:rgb(95, 175, 130);
+}
