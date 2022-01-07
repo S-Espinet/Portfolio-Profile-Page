@@ -27,7 +27,8 @@ h3 {
 
 .image1 img {
   float:right;
-  width:300px;
+  width:250px;
+  margin-left: 10px;
 }
 
 .image2 img {
@@ -36,7 +37,7 @@ h3 {
 }
 
 .box1 {
-  width: 100%;
+  width: 50%;
   border: solid green;
   border-width: 5px;
   background-color:tan;
