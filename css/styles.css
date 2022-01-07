@@ -1,10 +1,11 @@
+.story {
+  font-style:oblique;
+}
+
 .intro {
   font-style: italic;
 }
 
-.story {
-  font-style: oblique;
-}
 .highlight {
   background-color:cadetblue;
 }
@@ -13,6 +14,7 @@ h1 {
   color:forestgreen;
   background-color:antiquewhite;
   font-style:italic;
+  text-align:center;
 }
 
 h2 {
@@ -21,4 +23,32 @@ h2 {
 
 h3 {
   background-color:rgb(95, 175, 130);
+}
+
+.image1 img {
+  float:right;
+  width:300px;
+}
+
+.image2 img {
+  float:right;
+  width:200px;
+}
+
+.box1 {
+  width: 100%;
+  border: solid green;
+  border-width: 5xp;
+  background-color:tan;
+  margin-bottom: 10xp;
+  box-sizing:border-box;
+}
+
+.box2 {
+  width: 100%;
+  border: solid green;
+  border-width: 5xp;
+  background-color:tan;
+  margin-bottom: 10xp;
+  box-sizing:border-box;
 }
