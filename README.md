@@ -16,7 +16,7 @@ _This is a webpage that will serve as an introduction to a portfolio of my work,
 
 ## GitHub Pages Link
 
-* _https://s-espinet.github.io/Portfolio-Profile-Page/
+* _https://s-espinet.github.io/Portfolio-Profile-Page/_
 
 ## Setup/Installation Requirements
 
