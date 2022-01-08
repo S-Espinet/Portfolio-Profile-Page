@@ -14,6 +14,10 @@
 
 _This is a webpage that will serve as an introduction to a portfolio of my work, as well as illustrating my learning progression in web development._
 
+## GitHub Pages Link
+
+* _https://s-espinet.github.io/Portfolio-Profile-Page/
+
 ## Setup/Installation Requirements
 
 * _navigate to github.com/S-Espinet in browser_
