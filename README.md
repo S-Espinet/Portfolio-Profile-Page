@@ -24,8 +24,8 @@ _This is a webpage that will serve as an introduction to a portfolio of my work,
 * _select repository (Portfolio-Profile-Page)_
 * _click `Code` button and select desired security protocol_
 * _run git clone in terminal into desired directory_
-* _navigate to top level of directory_
-* _open page in browser_
+* _navigate to top level of directory in terminal -or- in your GUI_
+* _type "open index.html" into your terminal, -or- double-click the index.html file in your GUI_
 
 ## Known Bugs
 
