@@ -6,9 +6,9 @@
 
 ## Technologies Used
 
-* _html_
-* _css_
-* _bootstrap_
+* _HTML_
+* _CSS_
+* _Bootstrap_
 
 ## Description
 
